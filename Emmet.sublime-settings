@@ -1,0 +1,15 @@
+{
+	"snippets": {
+		"css": {
+			"snippets": {
+				"import": "@import \"css/less/${1:filename}\";",
+				"media": "@media (max-width: ${1:width}px) {${2}}"
+			}
+		},
+		"html": {
+			"abbreviations": {
+				"img": "<img src=\"${1}\" \/>"
+			}
+		}
+	}
+}

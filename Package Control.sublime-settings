@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"Gutter Color",
+		"LESS",
+		"Origami",
+		"Package Control",
+		"Seti_UI",
+		"SideBarEnhancements"
+	]
+}
