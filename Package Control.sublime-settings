@@ -5,8 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
+		"Boxy Theme",
 		"Color Highlighter",
+		"Colorsublime",
 		"DocBlockr",
 		"Emmet",
 		"Gutter Color",

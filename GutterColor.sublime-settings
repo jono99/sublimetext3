@@ -1,4 +1,6 @@
 
 {
-  "convert_path" : "/usr/local/bin/convert"
+	//"convert_path" : "/usr/local/bin/convert"
+	//"convert_path" : "D:\\Program Files\\ImageMagick-7.0.5-Q16\\convert.exe"
+	"convert_path" : "convert"
 }

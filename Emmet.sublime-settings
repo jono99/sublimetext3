@@ -8,7 +8,13 @@
 		},
 		"html": {
 			"abbreviations": {
-				"img": "<img src=\"${1}\" \/>"
+				"img": "<img src=\"${1}\" \/>",
+				"script": "<script src=\"${1}\"></script>"
+			}
+		},
+		"xml": {
+			"abbreviations": {
+				"column": "<column />"
 			}
 		}
 	}
